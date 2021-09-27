@@ -18,6 +18,5 @@
         "react"
     ],
     "rules": {
-        "react/prop-types": [0, {"ignore": ["category_name"]}]
     }
 }
