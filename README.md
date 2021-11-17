@@ -1,9 +1,19 @@
-The API that being used in this app was provided by:
- - RESAS https://opendata.resas-portal.go.jp/ for getting data
- - Highcharts https://www.highcharts.com/ for data visualization
+# About The Project
+Visualize the population of Japan by ages.
 
-Deployed on https://cocky-shaw-6b3b50.netlify.app.
+# Build With
+- React.js
+- [API from RESAS](https://opendata.resas-portal.go.jp/)
+- [Highcharts library](https://www.highcharts.com/)
 
-This project was made with purpose of visualizing the change of the population in each of Japan's provinces by years.
-
-The data is visualized in different criterias such as number of total population, number of people in different ages.
+# Usage
+Visit [Demo product](https://cocky-shaw-6b3b50.netlify.app)
+# Installation
+## Clone
+```
+git clone https://github.com/nxNghia/yumemi.git
+```
+## NPM packages
+```
+npm install
+```
